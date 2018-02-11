@@ -1,0 +1,17 @@
+body
+{
+	background-color:#66CCFF;
+}
+
+.text
+{
+	color:#FFFFFF;
+	text-align:center;
+	font-size:48px;
+	text-shadow:2px 2px 2px #000000
+}
+
+.text-hit-count
+{
+	font-size:24px;
+}
