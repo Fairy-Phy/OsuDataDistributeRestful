@@ -6,7 +6,7 @@ e.g.
 htpp://localhost:10801/rtpp.html?pp_ppformat=${rtpp@1}pp&hit_format=&fps=10
 ```
 
-# [rtpp.html](rtbpm.html)
+# [rtpp.html](rtpp.html)
 Show your pp in browser or OBS's browser source
 
 |Argument Name|Default Value|Note|
